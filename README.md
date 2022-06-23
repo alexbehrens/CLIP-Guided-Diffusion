@@ -164,3 +164,5 @@ For upscaling images, try https://github.com/xinntao/Real-ESRGAN
 ```
 * Guided Diffusion - https://github.com/openai/guided-diffusion
 * Katherine Crowson - <https://github.com/crowsonkb>
+
+Eligibility message
